@@ -1,0 +1,10 @@
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\bin\Debug\Energy Wheater 2.exe.config
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\bin\Debug\Energy Wheater 2.exe
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\bin\Debug\Energy Wheater 2.pdb
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\obj\Debug\Energy Wheater 2.csprojAssemblyReference.cache
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\obj\Debug\Energy_Wheater_2.Form1.resources
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\obj\Debug\Energy_Wheater_2.Properties.Resources.resources
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\obj\Debug\Energy Wheater 2.csproj.GenerateResource.cache
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\obj\Debug\Energy Wheater 2.csproj.CoreCompileInputs.cache
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\obj\Debug\Energy Wheater 2.exe
+c:\users\cristi priciu\source\repos\Energy Wheater 2\Energy Wheater 2\obj\Debug\Energy Wheater 2.pdb
