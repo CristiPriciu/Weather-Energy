@@ -6,6 +6,4 @@ This C# program generates a random weather pattern, converts it to MegaWatts of 
 
 This is my first C# project. Download and check out the code in Microsoft Visual Studio.
 
-The program starts with a executable file located in:
-
-Energy Wheater 2\Energy Wheater 2\bin\Debug\Energy Wheather 2.exe
+Start with Energy Wheather 2.exe
